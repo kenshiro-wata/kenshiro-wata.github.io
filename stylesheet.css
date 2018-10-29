@@ -1,3 +1,21 @@
-.title {
-  color: #02ccba;
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.header_logo{
+  font-size: 100px
+}
+
+.main{
+  float: left;
+}
+
+.header{
+  background-size: cover;
+  background-color: #EE680F;
+  color: white;
 }
